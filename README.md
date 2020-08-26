@@ -1,2 +1,2 @@
 # pytorch-examples-notes
-Notes and Examples Implemented in PyTorch
+In this repo I will be sharing some examples and that I am using for learning PyTorch. 
